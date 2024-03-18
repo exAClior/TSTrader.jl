@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+TSTrader = "26c9c837-407e-40f7-b4f7-af6a66645295"
